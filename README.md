@@ -7,6 +7,9 @@
 A simple web app built in Elm; recreated 2 player Tic Tac Toe game with numerous custom features and customization options.   
 Web app can be accessed [here](https://mac1xa3.ca/u/leej229/simpleapp.html)
 
+### A Short Demonstration of the Game:
+![](tic.gif)
+
 # Basic Functionality of 2 Player Tic Tac Toe
 ## Features
 **1) Start Over**: 
