@@ -1,17 +1,8 @@
 # Overview
 **Name:** Jiwoo Lee  
-**MacID:** leej229
-
 **Last Update:** March 30, 2019  
-**Status:** Finished Part 3 and 4 (Final Submission)
 
 # Description
-For more information about this project, please refer to [this link](https://mac1xa3.ca/Projects/Project02.pdf).
-
-## Personal CV / Resume Webpage
-A Personal CV/Resume Webpage for Co-op. Used an open-source template provided by [webthemez](https://webthemez.com/).  
-Website can be reached [here](https://mac1xa3.ca/u/leej229/)  
-
 ## Web App: 2 Player Tic Tac Toe
 A simple web app built in Elm; recreated 2 player Tic Tac Toe game with numerous custom features and customization options.   
 Web app can be accessed [here](https://mac1xa3.ca/u/leej229/simpleapp.html)
